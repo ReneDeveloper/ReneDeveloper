@@ -2,7 +2,7 @@
 - 👀 I’m interested in ROBOTICS
 - 🌱 I’m currently learning ROBOTICS
 - 💞️ I’m looking to collaborate on ROBOTICS
-- 📫 How to reach me RSILCAS@OUTLOOK.ES
+- 📫 How to reach me rene.silva.castillo@gmail.com
 
 <!---
 ReneDeveloper/ReneDeveloper is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
